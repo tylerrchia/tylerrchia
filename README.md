@@ -22,6 +22,9 @@ Built the strength staff's R/Shiny app and the GitHub Actions pipelines behind i
 ## Toolkit
 
 Languages: Python · R · SQL · C++ · JavaScript
+
 Data & Cloud: Azure Databricks · Apache Spark · PostgreSQL · GitHub Actions
+
 Analytics & Apps: Power BI (DAX) · Tableau · R Shiny · Streamlit
+
 ML: scikit-learn · XGBoost · PyTorch · TensorFlow
