@@ -11,7 +11,8 @@ Built Power BI dashboards and Python ingestion from legacy systems into Databric
 
 **UCLA Football**, Data Scientist / Engineer · 2025–2026
 
-Built the strength staff's R Shiny app and the automated GitHub Actions pipelines behind it. The pipelines pull sports-science data sources (VALD, Catapult, SmartSpeed) via APIs and auto-deploy the app to shinyapps.io.
+Led development of the strength staff's R Shiny app and the automated GitHub Actions pipelines behind it, from initial build through production use.
+The pipelines pull sports-science data (VALD, Catapult, SmartSpeed) via APIs and auto-deploy the app to shinyapps.io.
 
 ## Projects
 
