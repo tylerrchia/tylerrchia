@@ -15,7 +15,7 @@ Built the strength staff's R Shiny app and the automated GitHub Actions pipeline
 
 ## Projects
 
-- [**UCLA-Football-Strength-App**](https://github.com/UCLA-Football-Strength/UCLA-Football-Strength-App): Performance dashboard for UCLA Football coaches, fed by a daily pipeline pulling from five sports-science data sources
+- [**ucla-football-strength-pipeline**](https://github.com/tylerrchia/ucla-football-strength-pipeline): Performance dashboard for UCLA Football coaches, fed by a daily pipeline pulling from five sports-science data sources. Snapshot of my work before handoff to the program's own GitHub organization.
 - [**bike-fit-tool**](https://github.com/tylerrchia/bike-fit-tool): Scores your bike fit from a pedaling video using pose estimation, all in the browser with no upload
 - [**NBA-DPOY-Analysis**](https://github.com/tylerrchia/NBA-DPOY-Analysis): Machine learning take on the 2024 NBA Defensive Player of the Year debate
 
